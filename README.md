@@ -21,23 +21,30 @@ I learn best by building projects, debugging real problems, and understanding th
 - ⚙️ Building with: React, Spring Boot, FastAPI, SQL databases, Docker, and related tools.
 - 🎯 Career interests: Software engineering, backend engineering, and full-stack development opportunities.
 🚀 Featured Project
-A.M.I.V.R.E. — Autonomous Market Intelligence & Venture Risk Engine
-An AI-powered platform designed to stress-test business ideas using live market research and coordinated specialist agents.
 
-AMIVRE aims to help founders and decision-makers investigate a venture before committing time and resources. Instead of relying only on static information, the system coordinates specialized agents to collect and synthesize web-based signals about a market, public sentiment, competitors, emerging trends, and potential venture risks.
+AMIVRE — Autonomous Market Intelligence & Venture Risk Engine
 
-What makes it interesting:
-- 🧠 Multi-agent analysis: Specialized agents handle different parts of the research workflow, with orchestration built around LangGraph.
-- 🌐 Live-web research: Uses web-search and scraping workflows to gather current signals from sources such as Reddit, Hacker News, Wikipedia, Google Play, and Google Trends.
-- ⚡ Asynchronous processing: FastAPI, Celery, and Redis support background work so research tasks do not have to run entirely inside a single request.
-- 📡 Live progress updates: A WebSocket-powered interface is designed to show activity as agents work.
-- 📊 Evidence-oriented output: Combines research into a structured view of market conditions, competition, trends, and risks.
-Project stack
+Final-Year Group Project | AI-Powered Market Intelligence Platform
 
-Next.js · TypeScript · Tailwind CSS · Python · FastAPI · LangGraph · Celery · Redis · PostgreSQL · Google Gemini · Tavily · Docker
-- 🔗 View the source code
-- 📄 Read the technical specification
-AMIVRE is an evolving project. See the repository README and technical specification for the current implementation and setup instructions.
+AMIVRE is our final-year group project focused on building an AI-powered platform that helps evaluate business ideas through market research, competitive analysis, and venture-risk assessment.
+
+The platform aims to combine live web research with specialized AI agents to analyze business opportunities and generate structured insights, helping users make more informed decisions.
+
+Key areas of the project:
+
+🤖 Multi-agent AI workflows for business idea analysis
+
+🔎 Web-based market research and competitor discovery
+
+📊 Market intelligence and venture-risk assessment
+
+⚙️ Asynchronous processing for research-intensive tasks
+
+🧩 Full-stack system development and integration
+
+Technologies: See the AMIVRE repository for the implementation and technology stack.
+
+Developed collaboratively as part of our final-year Computer Engineering project.
 
 🧩 Other Project Work
 Server Patch Tracking Dashboard
