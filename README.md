@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1120,55:12343B,100:0E7490&amp;height=210&amp;section=header&amp;text=Dheeraj%20Vanmore&amp;fontSize=44&amp;fontColor=F8FAFC&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Computer%20Engineering%20%7C%20Software%20Engineering%20%7C%20AI%20%26%20DevOps&amp;descAlignY=58&amp;descSize=16" alt="Dheeraj Vanmore profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1120,55:12343B,100:0E7490&amp;height=210&amp;section=header&amp;text=Dheeraj%20Vanmore&amp;fontSize=44&amp;fontColor=F8FAFC&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Computer%20Engineering%20%7C%20Software%20Engineering%20%7C%20AI%20and%20DevOps&amp;descAlignY=58&amp;descSize=16" alt="Dheeraj Vanmore profile banner" />
 
   <h3>Building practical software. Exploring intelligent systems. Learning by building.</h3>
 
